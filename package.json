@@ -1,0 +1,19 @@
+{
+  "name": "tarea1-davidleiva504",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidleiva504/Tarea1-DavidLeiva504.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidleiva504/Tarea1-DavidLeiva504/issues"
+  },
+  "homepage": "https://github.com/Davidleiva504/Tarea1-DavidLeiva504#readme"
+}
